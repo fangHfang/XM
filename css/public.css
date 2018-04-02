@@ -1,0 +1,9 @@
+*{
+	margin: 0;
+	/* body 上的margin值8 */
+	text-decoration: none;
+	font-style: normal;
+	/* 字体斜体 */
+	padding: 0;
+	list-style: none;
+}
